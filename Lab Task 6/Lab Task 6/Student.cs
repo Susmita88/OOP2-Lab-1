@@ -69,5 +69,5 @@ namespace Lab_Task_6
                 Console.WriteLine("Department: " + department);
                 Console.WriteLine("CGPA: " + cgpa);
             }
-        }
+    }
 }

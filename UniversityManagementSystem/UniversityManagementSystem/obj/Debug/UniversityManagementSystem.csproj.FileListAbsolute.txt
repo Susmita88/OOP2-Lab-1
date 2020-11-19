@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\User\Desktop\Assignment\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb

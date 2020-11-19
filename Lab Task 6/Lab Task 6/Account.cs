@@ -60,10 +60,26 @@ namespace Lab_Task_6
             balance = balance - amount;    
         }
 
-        public void Transfer(int amount, Account receiver)
+        public void Transfer(int amount)
         {
-            receiver.balance = balance + amount;
+            if (amount < balance)
+            {
+                balance = balance - amount;
+            }
+            else
+            {
+                Console.WriteLine("Invalid balance");
+            }
         }
-       
+        public void Receiver(int amount)
+        {
+            balance = balance + amount;
+        }
+       void ShowInfo()
+        {
+            Console.WriteLine("AccName: " + accName);
+            Console.WriteLine("Acid: " + acid);
+            Console.WriteLine("Balance: " + balance);
+        }
     }
 }
