@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\bin\Debug\Lab 3.exe.config
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\bin\Debug\Lab 3.exe
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\bin\Debug\Lab 3.pdb
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\obj\Debug\Lab 3.exe
+C:\Users\USER\Desktop\Shush\8th Semester\OOP2\Mid\Lab\Lab Task 3\Lab Task 3\obj\Debug\Lab 3.pdb
